@@ -1,0 +1,21 @@
+{
+  "name": "barista-scriptbox",
+  "version": "0.0.1",
+  "description": "Middleware used in conjunction with barista-core to store, retrieve and schedule execution of scripts.",
+  "homepage": "https://github.com/baristalabs/barista-scriptbox",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/baristalabs/barista-scriptbox.git"
+  },
+  "main": "./lib/index.js",
+  "author": {
+    "name": "oceanswave",
+    "email": "sean.mclellan@baristalabs.com"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-schedule": "^1.0.0",
+    "pouchdb": "^5.2.1"
+  },
+  "license": "ISC"
+}
