@@ -1,6 +1,6 @@
 {
   "name": "barista-scriptbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware used in conjunction with barista-core to store, retrieve and schedule execution of barista scripts.",
   "homepage": "https://github.com/baristalabs/barista-scriptbox",
   "repository": {
